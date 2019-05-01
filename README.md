@@ -13,5 +13,6 @@
 - 即可在浏览器**127.0.0.1:8080**打开项目
 ## 目录结构
 ![目录结构](https://raw.githubusercontent.com/alex-guan/vue_base/master/public/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.png)
-## 测试结构
+## 结果结果
+### 点击按钮后.结果如下图,则基本开发环境完成.
 ![测试结果](https://github.com/alex-guan/vue_base/blob/master/public/%E6%B5%8B%E8%AF%95%E5%AE%8C%E6%88%90.png?raw=true)

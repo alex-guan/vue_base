@@ -15,7 +15,7 @@
         },
         methods:{
          async getTest(){
-             this.result = await this.$http.get("/").then(data=>data.data)
+             this.result = await this.$http.get("/").then(res=>res.data)
           }
         }
     }
